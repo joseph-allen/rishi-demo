@@ -46,6 +46,7 @@ const useStyles = makeStyles((theme) => ({
   },
   footer: {
     backgroundColor: 'white',
+    borderTop: '1px solid #55BCD5'
   },
 }));
 
