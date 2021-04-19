@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  display: flex;
+  background-color: #EFF8FA;
+  min-height: 100vh;
+  padding-top: 32px;
+}
+
+.avatar{
+  width: 350px !important;
+  height: 350px !important;
+
 }
 
 .App-logo {
